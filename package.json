@@ -1,0 +1,22 @@
+{
+  "name": "appium",
+  "version": "1.0.0",
+  "description": "appium testing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pro542/appium.git"
+  },
+  "author": "Praveen Senadheera",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Pro542/appium/issues"
+  },
+  "homepage": "https://github.com/Pro542/appium#readme",
+  "devDependencies": {
+    "webdriverio": "^9.4.1"
+  }
+}
